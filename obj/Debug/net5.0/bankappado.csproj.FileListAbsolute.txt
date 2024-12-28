@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\bankapp.api\obj\Debug\net5.0\bankapp.api.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\bankapp.api\obj\Debug\net5.0\bankapp.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\bankapp.api\obj\Debug\net5.0\bankapp.api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\bankapp.api\obj\Debug\net5.0\bankapp.api.AssemblyInfo.cs
+C:\Users\USER\Desktop\bankapp.api\obj\Debug\net5.0\bankapp.api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\bankappado\obj\Debug\net5.0\bankappado.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\bankappado\obj\Debug\net5.0\bankappado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\bankappado\obj\Debug\net5.0\bankappado.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\bankappado\obj\Debug\net5.0\bankappado.AssemblyInfo.cs
+C:\Users\USER\Desktop\bankappado\obj\Debug\net5.0\bankappado.csproj.CoreCompileInputs.cache
